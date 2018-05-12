@@ -1,0 +1,27 @@
+_repo: A-Selection-of-Books-published-by-Methuen-and-Co.-Ltd.-London-36-Essex-Street-W.CSeptember-19__17247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Methuen & Co.
+    alias: Methuen and Co.
+    gutenberg_agent_id: '6250'
+    url: http://www.gutenberg.org/2009/agents/6250
+description: ''
+gutenberg_issued: '2005-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Methuen & Co. -- Catalogs'
+- !lcsh 'Publishers'' catalogs -- England'
+title: A Selection of Books published by Methuen and Co. Ltd., London, 36, Essex Street,
+  W.C, September, 1911
+url: http://www.gutenberg.org/ebooks/17247
